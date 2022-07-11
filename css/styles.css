@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+header {
+    background-color: green;
+}
